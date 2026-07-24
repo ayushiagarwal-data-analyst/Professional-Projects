@@ -1,4 +1,4 @@
-This projrct answers the following questions: 
+This project answers the following questions: 
 Basic Queries  
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
